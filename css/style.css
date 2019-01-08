@@ -1,0 +1,35 @@
+header { position: relative; }
+
+body { display: flex; min-height: 100vh; flex-direction: column; }
+
+main { flex: 1 0 auto; }
+
+.btn-download { justify-content: center; }
+
+.masternav { background-color: rgb(158, 92, 92); border-bottom: 1px solid lightyellow; }
+
+.masterhead { padding-top: 10%; padding-bottom: 20%; background-color: rgb(170, 112, 112); width: 100%; }
+
+.section-heading { color: lightyellow; }
+
+#img-section { padding-top: 5%; padding-bottom: 10%; }
+
+.img-section { border-right: 1px solid lightyellow; border-left: 1px solid lightyellow; border-top: 1px solid lightyellow; }
+
+#infos-section { padding-top: 1%; padding-bottom: 0.3%; background-color: rgb(239, 235, 233); }
+
+.section-heading-desc { color: whitesmoke; }
+
+.page-footer { background-color: rgba(170, 112, 112, 0.66); }
+
+.background-overlay { background-image: url("../img/backgroung-patern.png"); background-repeat: repeat; }
+
+.carousel-desc { background-color: rgb(170, 112, 112); border-top: 1px solid lightyellow; border-bottom: 1px solid lightyellow; padding: 2%; }
+
+.plat { text-align: center; color: rgb(77, 182, 172); font-size: 1.8em; }
+
+.carousel-desc h3 { color: white; }
+
+.footer-text { font-size: 0.8em; color: slategrey; }
+
+.download-desc { color: rgb(77, 182, 172); }
